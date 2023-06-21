@@ -1,1 +1,0 @@
-python -m PyQt5.uic.pyuic -x remotica_client.ui -o remotica_client.py

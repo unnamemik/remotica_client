@@ -1,1 +1,0 @@
-pyinstaller --onefile remotica_client.pyw
